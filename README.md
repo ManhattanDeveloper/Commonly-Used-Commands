@@ -1,4 +1,5 @@
 # Commonly Used Commands
+#### Also checkout the wiki in this repo to checkout what I'm working on learning.  
 
 ###Compressing 
 `tar -zvcf <tar-archive-name.tar.gz> <source-folder-name>`
