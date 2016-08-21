@@ -7,3 +7,6 @@
 ###Decompressing
 `tar -xvzf <file.tar.gz>`  
 `tar xf <file.tar.gz> -c </destination/directory>`
+
+##Misc  
+`grep -r "Search Query" <dir>`
