@@ -13,3 +13,4 @@
 
 ##Misc  
 `grep -r "Search Query" <dir>`
+Installing Java JDK on Amazon Linux AMI `yum install java-1.7.0-openjdk java-1.7.0-openjdk-devel`
